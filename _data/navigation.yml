@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /index
   - title: "About"
-    # url: 
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /about
+  - title: "News"
+    url: https://jianfengxiaojianfeng.github.io/about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
